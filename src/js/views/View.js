@@ -86,3 +86,4 @@ export default class View {
     this._parentElement.insertAdjacentHTML("afterbegin", markup);
   }
 }
+console.log("IDEME PIT DANES?");
